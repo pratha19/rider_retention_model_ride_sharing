@@ -1,9 +1,9 @@
 # mini_project_17.2_transportation_take_home_ultimate_tech
  
- Take home data science problem by an online transportation network company.
+ Take home data science problem from a ride share company.
  
  This project is part of Springboard's Data science career track program and includes a data
- science take home challenge which has been adapted from an actual Ultimate Inc.
+ science take home challenge which has been adapted from an actual Ultimate Technologies (name changed)
  data science challenge. 
  
  It covers three parts:

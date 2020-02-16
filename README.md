@@ -1,4 +1,5 @@
 # mini_project_17.2_transportation_take_home_ultimate_tech
+ 
  Take home data science problem by an online transportation network company.
  
  This project is part of Springboard's Data science career track program and includes a data
@@ -8,8 +9,9 @@
  It covers three parts:
  Part 1 ‑ Exploratory data analysis
  Part 2 ‑ Experiment and metrics design
- 
  Part 3 ‑ Predictive modeling
+ 
+ The questions for the project can be found in data/ultimate_data_science_challenge.pdf file. 
  
 Data description
 ● city: city this user signed up in

@@ -6,17 +6,14 @@
  science take home challenge which has been adapted from an actual Ultimate Technologies (name changed)
  data science challenge. 
  
- It covers three parts:
- Part 1 ‑ Exploratory data analysis  
- 
- Part 2 ‑ Experiment and metrics design  
- 
- Part 3 ‑ Predictive modeling  
- 
+ It covers three parts:  
+ Part 1 ‑ Exploratory data analysis    
+ Part 2 ‑ Experiment and metrics design      
+ Part 3 ‑ Predictive modeling    
  
  The questions for the project can be found in data/ultimate_data_science_challenge.pdf file. 
  
-Data description
+Data description  
 ● city: city this user signed up in  
 ● phone: primary device for this user   
 ● signup_date: date of account registration; in the form ‘YYYY MM DD’  

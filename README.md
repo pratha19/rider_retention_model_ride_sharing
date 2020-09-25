@@ -1,4 +1,4 @@
-# mini_project_17.2_transportation_take_home_ultimate_tech
+# Rider retention model for a ride sharing company
  
  Take home data science problem from a ride share company.
  
